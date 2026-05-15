@@ -3,3 +3,17 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+
+body {
+    background-color: lightblue !important;
+    min-height: 100vh;
+    
+}
+
+.container {
+    min-height: 100vh;
+    background-color: lightblue !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
