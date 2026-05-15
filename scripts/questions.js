@@ -158,5 +158,165 @@ let questions = [
         "answer_3": "Punkte/Pellets",
         "answer_4": "Schluessel",
         "right_answer": 3
+    },
+    {
+        "question": "Wofuer steht HTML?",
+        "answer_1": "Hyper Text Markup Language",
+        "answer_2": "High Tech Modern Language",
+        "answer_3": "Home Tool Markup Language",
+        "answer_4": "Hyper Tool Machine Language",
+        "right_answer": 1
+    },
+    {
+        "question": "Welches HTML-Element erstellt eine Ueberschrift?",
+        "answer_1": "<p>",
+        "answer_2": "<h1>",
+        "answer_3": "<div>",
+        "answer_4": "<span>",
+        "right_answer": 2
+    },
+    {
+        "question": "Welche CSS-Eigenschaft aendert die Textfarbe?",
+        "answer_1": "background-color",
+        "answer_2": "font-size",
+        "answer_3": "color",
+        "answer_4": "text-style",
+        "right_answer": 3
+    },
+    {
+        "question": "Wie schreibt man einen Kommentar in JavaScript?",
+        "answer_1": "<!-- Kommentar -->",
+        "answer_2": "// Kommentar",
+        "answer_3": "# Kommentar",
+        "answer_4": "** Kommentar **",
+        "right_answer": 2
+    },
+    {
+        "question": "Welche Methode waehlt ein Element per ID aus?",
+        "answer_1": "getElementById()",
+        "answer_2": "queryClass()",
+        "answer_3": "selectElement()",
+        "answer_4": "findById()",
+        "right_answer": 1
+    },
+    {
+        "question": "Welches Symbol wird fuer Klassen in CSS verwendet?",
+        "answer_1": "#",
+        "answer_2": ".",
+        "answer_3": "*",
+        "answer_4": "&",
+        "right_answer": 2
+    },
+    {
+        "question": "Wie startet man eine Funktion in JavaScript?",
+        "answer_1": "function myFunction()",
+        "answer_2": "create myFunction()",
+        "answer_3": "new function()",
+        "answer_4": "start function()",
+        "right_answer": 1
+    },
+    {
+        "question": "Welches HTML-Tag fuegt ein Bild ein?",
+        "answer_1": "<image>",
+        "answer_2": "<pic>",
+        "answer_3": "<img>",
+        "answer_4": "<src>",
+        "right_answer": 3
+    },
+    {
+        "question": "Was bedeutet CSS?",
+        "answer_1": "Creative Style Sheets",
+        "answer_2": "Cascading Style Sheets",
+        "answer_3": "Computer Style Syntax",
+        "answer_4": "Colorful Style System",
+        "right_answer": 2
+    },
+    {
+        "question": "Welcher Operator prueft Gleichheit in JavaScript streng?",
+        "answer_1": "=",
+        "answer_2": "==",
+        "answer_3": "===",
+        "answer_4": "!=",
+        "right_answer": 3
+    },
+     {
+        "question": "Was ist die Hauptstadt von Deutschland?",
+        "answer_1": "Hamburg",
+        "answer_2": "Berlin",
+        "answer_3": "Muenchen",
+        "answer_4": "Koeln",
+        "right_answer": 2
+    },
+    {
+        "question": "Wie viele Kontinente gibt es auf der Erde?",
+        "answer_1": "5",
+        "answer_2": "6",
+        "answer_3": "7",
+        "answer_4": "8",
+        "right_answer": 3
+    },
+    {
+        "question": "Welcher Planet ist der Sonne am naechsten?",
+        "answer_1": "Venus",
+        "answer_2": "Mars",
+        "answer_3": "Merkur",
+        "answer_4": "Jupiter",
+        "right_answer": 3
+    },
+    {
+        "question": "Wie viele Tage hat ein Schaltjahr?",
+        "answer_1": "365",
+        "answer_2": "366",
+        "answer_3": "364",
+        "answer_4": "367",
+        "right_answer": 2
+    },
+    {
+        "question": "Welches Tier wird als Koenig der Tiere bezeichnet?",
+        "answer_1": "Tiger",
+        "answer_2": "Elefant",
+        "answer_3": "Loewe",
+        "answer_4": "Baer",
+        "right_answer": 3
+    },
+    {
+        "question": "Wie viele Minuten hat eine Stunde?",
+        "answer_1": "100",
+        "answer_2": "60",
+        "answer_3": "30",
+        "answer_4": "90",
+        "right_answer": 2
+    },
+    {
+        "question": "Welches Gas atmen Menschen hauptsaechlich ein?",
+        "answer_1": "Sauerstoff",
+        "answer_2": "Kohlenstoffdioxid",
+        "answer_3": "Helium",
+        "answer_4": "Wasserstoff",
+        "right_answer": 1
+    },
+    {
+        "question": "Wie viele Beine hat eine Spinne?",
+        "answer_1": "6",
+        "answer_2": "10",
+        "answer_3": "8",
+        "answer_4": "4",
+        "right_answer": 3
+    },
+    {
+        "question": "Welches ist das groesste Meerestier?",
+        "answer_1": "Hai",
+        "answer_2": "Blauwal",
+        "answer_3": "Orca",
+        "answer_4": "Delfin",
+        "right_answer": 2
+    },
+    {
+        "question": "Wie viele Monate hat ein Jahr?",
+        "answer_1": "10",
+        "answer_2": "11",
+        "answer_3": "12",
+        "answer_4": "13",
+        "right_answer": 3
     }
 ];
